@@ -1,6 +1,5 @@
 package com.xiaozh.Thread.Test;
 
-import jdk.nashorn.internal.ir.CallNode;
 
 public class MySharedObject {
     public static final MySharedObject sharedInstance= new MySharedObject();

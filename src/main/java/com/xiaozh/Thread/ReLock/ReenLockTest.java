@@ -1,9 +1,8 @@
 package com.xiaozh.Thread.ReLock;
 
-import jdk.nashorn.internal.ir.CallNode;
 import lombok.extern.slf4j.Slf4j;
-
 import java.util.concurrent.locks.ReentrantLock;
+
 
 @Slf4j(topic = "c.ReenLockTest")
 public class ReenLockTest {
